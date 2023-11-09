@@ -250,7 +250,7 @@ is a function which accepts one double-precision floating-point input ndarray an
 
 <!-- loops -->
 
-#### stdlib_ndarray_assign_b_b( \*arrays[] )
+#### stdlib_ndarray_assign_b_b( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -334,7 +334,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_b_b( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_b_c( \*arrays[] )
+#### stdlib_ndarray_assign_b_c( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -418,7 +418,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_b_c( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_b_d( \*arrays[] )
+#### stdlib_ndarray_assign_b_d( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -502,7 +502,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_b_d( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_b_f( \*arrays[] )
+#### stdlib_ndarray_assign_b_f( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -586,7 +586,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_b_f( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_b_i( \*arrays[] )
+#### stdlib_ndarray_assign_b_i( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -670,7 +670,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_b_i( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_b_k( \*arrays[] )
+#### stdlib_ndarray_assign_b_k( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -754,7 +754,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_b_k( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_b_t( \*arrays[] )
+#### stdlib_ndarray_assign_b_t( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -838,7 +838,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_b_t( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_b_u( \*arrays[] )
+#### stdlib_ndarray_assign_b_u( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -922,7 +922,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_b_u( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_b_z( \*arrays[] )
+#### stdlib_ndarray_assign_b_z( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -1006,7 +1006,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_b_z( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_c_c( \*arrays[] )
+#### stdlib_ndarray_assign_c_c( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -1090,7 +1090,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_c_c( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_c_z( \*arrays[] )
+#### stdlib_ndarray_assign_c_z( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -1174,7 +1174,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_c_z( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_d_c( \*arrays[] )
+#### stdlib_ndarray_assign_d_c( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -1258,7 +1258,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_d_c( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_d_d( \*arrays[] )
+#### stdlib_ndarray_assign_d_d( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -1342,7 +1342,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_d_d( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_d_f( \*arrays[] )
+#### stdlib_ndarray_assign_d_f( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -1426,7 +1426,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_d_f( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_d_z( \*arrays[] )
+#### stdlib_ndarray_assign_d_z( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -1510,7 +1510,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_d_z( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_f_c( \*arrays[] )
+#### stdlib_ndarray_assign_f_c( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -1594,7 +1594,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_f_c( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_f_d( \*arrays[] )
+#### stdlib_ndarray_assign_f_d( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -1678,7 +1678,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_f_d( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_f_f( \*arrays[] )
+#### stdlib_ndarray_assign_f_f( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -1762,7 +1762,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_f_f( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_f_z( \*arrays[] )
+#### stdlib_ndarray_assign_f_z( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -1846,7 +1846,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_f_z( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_i_d( \*arrays[] )
+#### stdlib_ndarray_assign_i_d( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -1930,7 +1930,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_i_d( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_i_i( \*arrays[] )
+#### stdlib_ndarray_assign_i_i( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -2014,7 +2014,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_i_i( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_i_u( \*arrays[] )
+#### stdlib_ndarray_assign_i_u( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -2098,7 +2098,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_i_u( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_i_z( \*arrays[] )
+#### stdlib_ndarray_assign_i_z( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -2182,7 +2182,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_i_z( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_k_c( \*arrays[] )
+#### stdlib_ndarray_assign_k_c( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -2266,7 +2266,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_k_c( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_k_d( \*arrays[] )
+#### stdlib_ndarray_assign_k_d( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -2350,7 +2350,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_k_d( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_k_f( \*arrays[] )
+#### stdlib_ndarray_assign_k_f( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -2434,7 +2434,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_k_f( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_k_i( \*arrays[] )
+#### stdlib_ndarray_assign_k_i( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -2518,7 +2518,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_k_i( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_k_k( \*arrays[] )
+#### stdlib_ndarray_assign_k_k( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -2602,7 +2602,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_k_k( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_k_t( \*arrays[] )
+#### stdlib_ndarray_assign_k_t( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -2686,7 +2686,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_k_t( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_k_u( \*arrays[] )
+#### stdlib_ndarray_assign_k_u( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -2770,7 +2770,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_k_u( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_k_z( \*arrays[] )
+#### stdlib_ndarray_assign_k_z( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -2854,7 +2854,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_k_z( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_s_b( \*arrays[] )
+#### stdlib_ndarray_assign_s_b( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -2938,7 +2938,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_s_b( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_s_c( \*arrays[] )
+#### stdlib_ndarray_assign_s_c( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -3022,7 +3022,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_s_c( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_s_d( \*arrays[] )
+#### stdlib_ndarray_assign_s_d( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -3106,7 +3106,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_s_d( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_s_f( \*arrays[] )
+#### stdlib_ndarray_assign_s_f( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -3190,7 +3190,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_s_f( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_s_i( \*arrays[] )
+#### stdlib_ndarray_assign_s_i( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -3274,7 +3274,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_s_i( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_s_k( \*arrays[] )
+#### stdlib_ndarray_assign_s_k( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -3358,7 +3358,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_s_k( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_s_s( \*arrays[] )
+#### stdlib_ndarray_assign_s_s( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -3442,7 +3442,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_s_s( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_s_t( \*arrays[] )
+#### stdlib_ndarray_assign_s_t( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -3526,7 +3526,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_s_t( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_s_u( \*arrays[] )
+#### stdlib_ndarray_assign_s_u( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -3610,7 +3610,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_s_u( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_s_z( \*arrays[] )
+#### stdlib_ndarray_assign_s_z( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -3694,7 +3694,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_s_z( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_t_c( \*arrays[] )
+#### stdlib_ndarray_assign_t_c( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -3778,7 +3778,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_t_c( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_t_d( \*arrays[] )
+#### stdlib_ndarray_assign_t_d( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -3862,7 +3862,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_t_d( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_t_f( \*arrays[] )
+#### stdlib_ndarray_assign_t_f( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -3946,7 +3946,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_t_f( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_t_i( \*arrays[] )
+#### stdlib_ndarray_assign_t_i( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -4030,7 +4030,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_t_i( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_t_t( \*arrays[] )
+#### stdlib_ndarray_assign_t_t( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -4114,7 +4114,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_t_t( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_t_u( \*arrays[] )
+#### stdlib_ndarray_assign_t_u( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -4198,7 +4198,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_t_u( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_t_z( \*arrays[] )
+#### stdlib_ndarray_assign_t_z( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -4282,7 +4282,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_t_z( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_u_d( \*arrays[] )
+#### stdlib_ndarray_assign_u_d( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -4366,7 +4366,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_u_d( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_u_u( \*arrays[] )
+#### stdlib_ndarray_assign_u_u( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -4450,7 +4450,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_u_u( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_u_z( \*arrays[] )
+#### stdlib_ndarray_assign_u_z( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -4534,7 +4534,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_u_z( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_z_c( \*arrays[] )
+#### stdlib_ndarray_assign_z_c( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -4618,7 +4618,7 @@ The function accepts the following arguments:
 int8_t stdlib_ndarray_assign_z_c( struct ndarray *arrays[] );
 ```
 
-#### stdlib_ndarray_assign_z_z( \*arrays[] )
+#### stdlib_ndarray_assign_z_z( \*arrays\[] )
 
 Assigns elements in an input ndarray to elements in an output ndarray.
 
@@ -4834,12 +4834,6 @@ int main( void ) {
 
 <section class="related">
 
-* * *
-
-## See Also
-
--   <span class="package-name">[`@stdlib/ndarray-dispatch`][@stdlib/ndarray/dispatch]</span><span class="delimiter">: </span><span class="description">create an ndarray function interface which performs multiple dispatch.</span>
-
 </section>
 
 <!-- /.related -->
@@ -4912,8 +4906,6 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/ndarray-base-assign/main/LICENSE
 
 <!-- <related-links> -->
-
-[@stdlib/ndarray/dispatch]: https://github.com/stdlib-js/ndarray-dispatch
 
 <!-- </related-links> -->
 
