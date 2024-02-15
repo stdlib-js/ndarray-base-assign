@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import assign from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assign@esm/index.mjs';
+import assign from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assign@v0.1.0-esm/index.mjs';
 ```
 
 #### assign( arrays )
@@ -144,7 +144,7 @@ import filledarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled@esm/
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@esm/index.mjs';
 import shape2strides from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-shape2strides@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to-array@esm/index.mjs';
-import assign from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assign@esm/index.mjs';
+import assign from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assign@v0.1.0-esm/index.mjs';
 
 var N = 10;
 var shape = [ 5, 2 ];
