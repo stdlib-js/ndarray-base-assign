@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import assign from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assign@deno/mod.js';
+import assign from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assign@v0.1.0-deno/mod.js';
 ```
 
 #### assign( arrays )
@@ -139,7 +139,7 @@ import filledarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled@deno
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@deno/mod.js';
 import shape2strides from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-shape2strides@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to-array@deno/mod.js';
-import assign from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assign@deno/mod.js';
+import assign from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assign@v0.1.0-deno/mod.js';
 
 var N = 10;
 var shape = [ 5, 2 ];
