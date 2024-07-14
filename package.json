@@ -42,8 +42,8 @@
   "dependencies": {
     "@stdlib/complex-base-cast-return": "^0.2.1",
     "@stdlib/complex-ctors": "^0.2.1",
-    "@stdlib/complex-float32": "^0.2.1",
-    "@stdlib/complex-float64": "^0.2.1",
+    "@stdlib/complex-float32-ctor": "^0.0.1",
+    "@stdlib/complex-float64-ctor": "^0.0.1",
     "@stdlib/ndarray-base-assert-is-complex-floating-point-data-type": "^0.2.1",
     "@stdlib/ndarray-base-assert-is-real-data-type": "^0.2.1",
     "@stdlib/ndarray-base-bytes-per-element": "^0.2.1",
