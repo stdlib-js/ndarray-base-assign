@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-10)
+## Unreleased (2025-03-22)
 
 <section class="features">
 
@@ -34,6 +34,7 @@
 
 <details>
 
+-   [`04f7752`](https://github.com/stdlib-js/stdlib/commit/04f77520acf685e9325bf4413be6da7543ed3cb5) - **refactor:** accommodate known array types for increased performance _(by Athan Reines)_
 -   [`52f7ac2`](https://github.com/stdlib-js/stdlib/commit/52f7ac26eff82f57ccfca5a3b04c15dbacad074e) - **fix:** use correct stride _(by Athan Reines)_
 -   [`9f49cfb`](https://github.com/stdlib-js/stdlib/commit/9f49cfb0e8047348ee5dc24d64bf82afbc7ca644) - **docs:** fix description _(by Athan Reines)_
 -   [`f387603`](https://github.com/stdlib-js/stdlib/commit/f387603e739f88a38af3263ce6ff675ad903ee8c) - **docs:** consistently use declarative instead of imperative sentences outside of intros _(by Philipp Burckhardt)_

@@ -40,6 +40,9 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
+    "@stdlib/array-base-assert-is-booleanarray": "^0.0.2",
+    "@stdlib/array-base-assert-is-complex-typed-array": "^0.1.2",
+    "@stdlib/blas-base-gscal": "^0.2.2",
     "@stdlib/complex-base-cast-return": "^0.2.2",
     "@stdlib/complex-ctors": "^0.2.2",
     "@stdlib/complex-float32-ctor": "^0.0.2",
@@ -57,6 +60,8 @@
     "@stdlib/ndarray-ctor": "^0.2.2",
     "@stdlib/ndarray-index-modes": "^0.2.2",
     "@stdlib/ndarray-orders": "^0.2.2",
+    "@stdlib/strided-base-reinterpret-boolean": "^0.0.2",
+    "@stdlib/strided-base-reinterpret-complex": "^0.1.2",
     "@stdlib/types": "^0.4.3",
     "@stdlib/utils-library-manifest": "^0.2.2"
   },
@@ -64,7 +69,6 @@
     "@stdlib/array-filled": "^0.2.1",
     "@stdlib/array-filled-by": "^0.2.1",
     "@stdlib/array-typed-complex-ctors": "^0.2.2",
-    "@stdlib/blas-base-gscal": "^0.2.2",
     "@stdlib/fs-read-dir": "^0.2.2",
     "@stdlib/fs-read-file": "^0.2.2",
     "@stdlib/fs-read-json": "^0.2.2",
