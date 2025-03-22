@@ -20,6 +20,7 @@
 
 ### Bug Fixes
 
+-   [`1e48327`](https://github.com/stdlib-js/stdlib/commit/1e48327f169d8cd8adf1177f92d5147077edbfe7) - handle zero-dimensional ndarrays
 -   [`52f7ac2`](https://github.com/stdlib-js/stdlib/commit/52f7ac26eff82f57ccfca5a3b04c15dbacad074e) - use correct stride
 -   [`96c7ddf`](https://github.com/stdlib-js/stdlib/commit/96c7ddfdbcecc6ff60fcb56681db16463d19020e) - use computed order and fix strides in examples
 -   [`cf3f92e`](https://github.com/stdlib-js/stdlib/commit/cf3f92eddd20ec1a4106c8a34f7d7705a9a99dbc) - update include paths
@@ -34,6 +35,7 @@
 
 <details>
 
+-   [`1e48327`](https://github.com/stdlib-js/stdlib/commit/1e48327f169d8cd8adf1177f92d5147077edbfe7) - **fix:** handle zero-dimensional ndarrays _(by Athan Reines)_
 -   [`04f7752`](https://github.com/stdlib-js/stdlib/commit/04f77520acf685e9325bf4413be6da7543ed3cb5) - **refactor:** accommodate known array types for increased performance _(by Athan Reines)_
 -   [`52f7ac2`](https://github.com/stdlib-js/stdlib/commit/52f7ac26eff82f57ccfca5a3b04c15dbacad074e) - **fix:** use correct stride _(by Athan Reines)_
 -   [`9f49cfb`](https://github.com/stdlib-js/stdlib/commit/9f49cfb0e8047348ee5dc24d64bf82afbc7ca644) - **docs:** fix description _(by Athan Reines)_
