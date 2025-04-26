@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-31)
+## Unreleased (2025-04-26)
 
 <section class="features">
 
@@ -35,6 +35,7 @@
 
 <details>
 
+-   [`2d63924`](https://github.com/stdlib-js/stdlib/commit/2d63924aea1ea500037ca025d8d405018907c8dd) - **docs:** update comment _(by Athan Reines)_
 -   [`47f726c`](https://github.com/stdlib-js/stdlib/commit/47f726ce566a85f054035c662768653bae07d25a) - **chore:** resolve lint errors _(by Athan Reines)_
 -   [`1e48327`](https://github.com/stdlib-js/stdlib/commit/1e48327f169d8cd8adf1177f92d5147077edbfe7) - **fix:** handle zero-dimensional ndarrays _(by Athan Reines)_
 -   [`04f7752`](https://github.com/stdlib-js/stdlib/commit/04f77520acf685e9325bf4413be6da7543ed3cb5) - **refactor:** accommodate known array types for increased performance _(by Athan Reines)_
