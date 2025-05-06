@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-26)
+## Unreleased (2025-05-06)
 
 <section class="features">
 
@@ -20,6 +20,7 @@
 
 ### Bug Fixes
 
+-   [`aa86262`](https://github.com/stdlib-js/stdlib/commit/aa862629c2826d5f0b9e69c64264eea89ea1de7d) - use computed order
 -   [`1e48327`](https://github.com/stdlib-js/stdlib/commit/1e48327f169d8cd8adf1177f92d5147077edbfe7) - handle zero-dimensional ndarrays
 -   [`52f7ac2`](https://github.com/stdlib-js/stdlib/commit/52f7ac26eff82f57ccfca5a3b04c15dbacad074e) - use correct stride
 -   [`96c7ddf`](https://github.com/stdlib-js/stdlib/commit/96c7ddfdbcecc6ff60fcb56681db16463d19020e) - use computed order and fix strides in examples
@@ -35,6 +36,8 @@
 
 <details>
 
+-   [`5fcde08`](https://github.com/stdlib-js/stdlib/commit/5fcde08f9cce69278aa50f7aff8c17d5222df0af) - **style:** disable lint rule _(by Athan Reines)_
+-   [`aa86262`](https://github.com/stdlib-js/stdlib/commit/aa862629c2826d5f0b9e69c64264eea89ea1de7d) - **fix:** use computed order _(by Athan Reines)_
 -   [`2d63924`](https://github.com/stdlib-js/stdlib/commit/2d63924aea1ea500037ca025d8d405018907c8dd) - **docs:** update comment _(by Athan Reines)_
 -   [`47f726c`](https://github.com/stdlib-js/stdlib/commit/47f726ce566a85f054035c662768653bae07d25a) - **chore:** resolve lint errors _(by Athan Reines)_
 -   [`1e48327`](https://github.com/stdlib-js/stdlib/commit/1e48327f169d8cd8adf1177f92d5147077edbfe7) - **fix:** handle zero-dimensional ndarrays _(by Athan Reines)_
