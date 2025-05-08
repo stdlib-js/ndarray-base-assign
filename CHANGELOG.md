@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-07)
+## Unreleased (2025-05-08)
 
 <section class="features">
 
@@ -20,6 +20,7 @@
 
 ### Bug Fixes
 
+-   [`ab22671`](https://github.com/stdlib-js/stdlib/commit/ab2267149121cf347c5be11d7bfc7ee64e4f663a) - use resolved order when computing loop variables
 -   [`aa86262`](https://github.com/stdlib-js/stdlib/commit/aa862629c2826d5f0b9e69c64264eea89ea1de7d) - use computed order
 -   [`1e48327`](https://github.com/stdlib-js/stdlib/commit/1e48327f169d8cd8adf1177f92d5147077edbfe7) - handle zero-dimensional ndarrays
 -   [`52f7ac2`](https://github.com/stdlib-js/stdlib/commit/52f7ac26eff82f57ccfca5a3b04c15dbacad074e) - use correct stride
@@ -36,6 +37,7 @@
 
 <details>
 
+-   [`ab22671`](https://github.com/stdlib-js/stdlib/commit/ab2267149121cf347c5be11d7bfc7ee64e4f663a) - **fix:** use resolved order when computing loop variables _(by Athan Reines)_
 -   [`3dd8cb3`](https://github.com/stdlib-js/stdlib/commit/3dd8cb379ea22c4a92d610d146cdd662d3187e27) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`5fcde08`](https://github.com/stdlib-js/stdlib/commit/5fcde08f9cce69278aa50f7aff8c17d5222df0af) - **style:** disable lint rule _(by Athan Reines)_
 -   [`aa86262`](https://github.com/stdlib-js/stdlib/commit/aa862629c2826d5f0b9e69c64264eea89ea1de7d) - **fix:** use computed order _(by Athan Reines)_
