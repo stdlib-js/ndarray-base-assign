@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-02)
+## Unreleased (2025-09-15)
 
 <section class="features">
 
@@ -37,6 +37,7 @@
 
 <details>
 
+-   [`905019c`](https://github.com/stdlib-js/stdlib/commit/905019c024611308865950e3d1dd51c642176e82) - **docs:** fix grammar in function descriptions _(by Philipp Burckhardt)_
 -   [`ab22671`](https://github.com/stdlib-js/stdlib/commit/ab2267149121cf347c5be11d7bfc7ee64e4f663a) - **fix:** use resolved order when computing loop variables _(by Athan Reines)_
 -   [`3dd8cb3`](https://github.com/stdlib-js/stdlib/commit/3dd8cb379ea22c4a92d610d146cdd662d3187e27) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`5fcde08`](https://github.com/stdlib-js/stdlib/commit/5fcde08f9cce69278aa50f7aff8c17d5222df0af) - **style:** disable lint rule _(by Athan Reines)_
