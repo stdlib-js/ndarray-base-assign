@@ -37,6 +37,7 @@
 
 <details>
 
+-   [`e9d58ab`](https://github.com/stdlib-js/stdlib/commit/e9d58abd0288a87700361673ba08d816a11d68fa) - **refactor:** resolve dtype string and update documented type _(by Athan Reines)_
 -   [`a3e7978`](https://github.com/stdlib-js/stdlib/commit/a3e79786217bf1c9a84875203251af82cc93a222) - **docs:** update markup _(by Athan Reines)_
 -   [`905019c`](https://github.com/stdlib-js/stdlib/commit/905019c024611308865950e3d1dd51c642176e82) - **docs:** fix grammar in function descriptions _(by Philipp Burckhardt)_
 -   [`ab22671`](https://github.com/stdlib-js/stdlib/commit/ab2267149121cf347c5be11d7bfc7ee64e4f663a) - **fix:** use resolved order when computing loop variables _(by Athan Reines)_
