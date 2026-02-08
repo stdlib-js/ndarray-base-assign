@@ -50,6 +50,11 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
+assign = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assign@umd/browser.js' )
+```
+The previous example will load the latest bundled code from the umd branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-base-assign/tags). For example,
+
+```javascript
 assign = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assign@v0.2.1-umd/browser.js' )
 ```
 
@@ -62,7 +67,7 @@ var assign = require( 'path/to/vendor/umd/ndarray-base-assign/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assign@v0.2.1-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assign@umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
