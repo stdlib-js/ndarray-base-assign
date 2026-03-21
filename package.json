@@ -63,8 +63,10 @@
     "@stdlib/ndarray-orders": "^0.2.3",
     "@stdlib/strided-base-reinterpret-boolean": "^0.0.3",
     "@stdlib/strided-base-reinterpret-complex": "^0.1.3",
+    "@stdlib/string-format": "^0.2.3",
     "@stdlib/types": "^0.4.3",
-    "@stdlib/utils-library-manifest": "^0.2.4"
+    "@stdlib/utils-library-manifest": "^0.2.4",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/array-filled": "^0.3.1",
@@ -89,7 +91,6 @@
     "@stdlib/ndarray-dtypes": "^0.4.1",
     "@stdlib/ndarray-mostly-safe-casts": "^0.4.1",
     "@stdlib/random-base-discrete-uniform": "^0.2.2",
-    "@stdlib/string-format": "^0.2.3",
     "@stdlib/string-replace": "^0.2.3",
     "@stdlib/string-substring-after": "^0.2.3",
     "@stdlib/string-substring-before": "^0.2.3",
