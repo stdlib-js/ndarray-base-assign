@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`826071a`](https://github.com/stdlib-js/stdlib/commit/826071af85401abe59ef8c6eb687224b4e374ce8) - **bench:** fix missing arguments _(by Athan Reines)_
 -   [`b1b1a64`](https://github.com/stdlib-js/stdlib/commit/b1b1a64876a554c2d77c9f4fbc96daa5e0d3f90e) - **docs:** update example _(by Athan Reines)_
 -   [`0f753ef`](https://github.com/stdlib-js/stdlib/commit/0f753ef8b2aeb203c314accd37af63c551dfdfad) - **refactor:** use string interpolation _(by Athan Reines)_
 
