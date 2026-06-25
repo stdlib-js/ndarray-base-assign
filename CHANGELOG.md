@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-19)
+## Unreleased (2026-06-25)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`ae0704c`](https://github.com/stdlib-js/stdlib/commit/ae0704c8acf3023469ab02686154e26193a601cd) - **docs:** fix typo `PREMABLE` to `PREAMBLE` [(#13130)](https://github.com/stdlib-js/stdlib/pull/13130) _(by anee3)_
 -   [`051da21`](https://github.com/stdlib-js/stdlib/commit/051da21ec75e0988b7e8ba5d07fb6077629f13ac) - **docs:** improve doctests for complex number typed arrays in `ndarray/base/assign` [(#12051)](https://github.com/stdlib-js/stdlib/pull/12051) _(by Karan Anand)_
 -   [`a4a5a00`](https://github.com/stdlib-js/stdlib/commit/a4a5a0071775e446d59fb7eb2553e850f1a84b26) - **bench:** refactor to use string interpolation in `ndarray/base/assign` [(#11019)](https://github.com/stdlib-js/stdlib/pull/11019) _(by Partha Das)_
 -   [`826071a`](https://github.com/stdlib-js/stdlib/commit/826071af85401abe59ef8c6eb687224b4e374ce8) - **bench:** fix missing arguments _(by Athan Reines)_
@@ -28,11 +29,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
 -   Partha Das
+-   anee3
 
 </section>
 
